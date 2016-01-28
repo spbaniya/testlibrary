@@ -1,13 +1,12 @@
 {
     "name": "spbaniya/testlibrary",
-    "description": "My First Composer project",
-    "type": "dev",
+    "description": "Test Library",
     "authors": [
         {
             "name": "Sujit Baniya",
             "email": "spbaniya@deerwalk.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
