@@ -1,0 +1,13 @@
+{
+    "name": "spbaniya/testlibrary",
+    "description": "This is the test library to check the integration of PHP library inside Composer",
+    "type": "Library",
+    "license": "None",
+    "authors": [
+        {
+            "name": "Sujit Baniya",
+            "email": "spbaniya@deerwalk.com"
+        }
+    ],
+    "require": {}
+}
