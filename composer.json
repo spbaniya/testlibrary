@@ -10,7 +10,8 @@
             "source": {
                 "url": "https://github.com/spbaniya/testlibrary.git",
                 "type": "git"
-            }
+            },
+            "minimum-stability":"dev-master"
         }
     }],
     "require": {
