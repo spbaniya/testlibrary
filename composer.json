@@ -1,13 +1,24 @@
 {
     "name": "spbaniya/testlibrary",
+    "version": "dev-master",
     "description": "Test Library",
+    "repositories": [{
+        "type": "package",
+        "package": {
+            "name": "spbaniya/testlibrary",
+            "version": "dev-master",
+            "source": {
+                "url": "https://github.com/spbaniya/testlibrary.git",
+                "type": "git"
+            }
+        }
+    }],
     "authors": [
         {
             "name": "Sujit Baniya",
             "email": "spbaniya@deerwalk.com"
         }
     ],
-    "minimum-stability": "dev",
-    "version": "1.0.0",
-    "require": {}
+    "minimum-stability": "dev"
+
 }
