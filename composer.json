@@ -7,7 +7,7 @@
             "email": "spbaniya@deerwalk.com"
         }
     ],
-    "minimum-stability": "dev-master",
-    "version": "dev-master",
+    "minimum-stability": "dev",
+    "version": "1.0.0",
     "require": {}
 }
